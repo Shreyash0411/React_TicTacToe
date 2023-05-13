@@ -1,5 +1,6 @@
 import Square from "./Square";
 
+// eslint-disable-next-line react/prop-types
 const Board = ({squares, handleSquareClicks})=>
 {
 
